@@ -48,11 +48,16 @@ WeUI-Sketch 是微信官方设计团队作品，知识产权等相关权利归�
 
 2. 本帐号下所有项目及相关所有信息的一切著作权、商标权、专利权、商业秘密等知识产权（包括但不限于文字、图片、音频、视频、图表、界面设计、版面框架、有关数据或电子文档等）均受中华人民共和国法律法规和相应的国际条约保护，腾讯享有上述知识产权，但相关权利人依照法律规定应享有的权利除外。
 
-3. 未经腾讯或相关权利人书面同意，你不得为任何商业目的自行或许可任何第三方实施、利用、转让上述知识产权。
+3. 未经腾讯或相关权利人书面同意，你不得以直接盈利为目的自行或许可任何第三方直接售卖本帐号下项目数据，或者建立收费镜像下载本帐号下项目数据等。
+
+4. 腾讯公司欢迎其它方式的使用，包括在本帐号下项目的基础上进行再加工、衍生、演绎，形成其它作品或将其作为作品的元素。
 
 ### Notice
+
 1. Tencent is the owner of all Intellectual property rights of this account and all projects posted under this account.
 
 2. All intellectual property rights, including but not limited to copyright, trademark, patent, trade secret , of all projects and all relevant information (including, but not limited to text, image, audio, video, graphics, interface design, layout framework, relevant data or electronic documents and etc.) posted under this account are governed and protected by laws and regulations of P.R.China and applicable international treaties, Tencent has all the intellectual property aforesaid, except for those rights that owned by any third party in accordance with applicable laws. 
 
-3. Without written consent of Tencent or applicable rights owner, you shall not implement, use or transfer or permit any third party to implement, use or transfer the aforementioned intellectual property rights for any commercial purpose. 
+3. Without written consent of Tencent or applicable rights owner, you shall not sell or permit any third party to sell any project data posted under this account, or establish mirror of the same for sale. 
+
+4. Other lawful and reasonable use of information or data posted under this account are encouraged, including reproducing such information or data; preparing derivative works based on such information or data, or incorporating such data or information into other works or projects.
