@@ -4,6 +4,9 @@
 
 WeUI-Design 是微信官方设计团队设计的一套同微信原生视觉体验一致的基础视觉样式库，目前提供 Sketch 与 PSD 基础样式库源文件。开发者或设计师可以使用 WeUI-Design 进行微信 Web 开发的原型设计、视觉设计等。
 
+### 下载
+[WeUI-Design](https://github.com/weui/WeUI-Design/archive/master.zip)
+
 ### 环境依赖
 
 #### Sketch 版本
