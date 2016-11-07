@@ -21,13 +21,13 @@ WeUI-Design 是微信官方设计团队设计的一套同微信原生视觉体�
 
 iOS
 
-- 苹方 / PingFang SC 
-- SF UI Display
+- 苹方 / PingFang SC（ Mac OS X EI Caption ，版本10 .11及以上系统内置 ）
+- SF UI Display（ 需Apple官网下载，地址：https://developer.apple.com/fonts/ ）
 
 Android
 
-- 思源黑体 / Source HanSans CN
-- Robot
+- 思源黑体 / NotoSans CJK SC （附件有资源）
+- Robot（附件有资源）
 
 ### Sketch 使用说明
 
