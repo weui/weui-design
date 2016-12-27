@@ -57,6 +57,15 @@ WeUI-Design 是微信官方设计团队作品，知识产权等相关权利归�
 #### 我们禁止
 - 未经允许直接利用 WeUI-Design 作品开展牟利行为，包括但不限于打包售卖、另行建立镜像收取费用、有偿下载、积分下载等行为
 
+### 更新
+
+#### 2016-12-27
+
+- symbol支持了resizing 能力
+- 更正“弹窗”为模态对话框
+- 单独展示操作列表（actionsheet），新增有提醒文案样式
+- 新增新消息标识
+
 ### 法律声明
 
 1. 腾讯公司是本帐号及其下项目的知识产权权利人。
@@ -71,8 +80,8 @@ WeUI-Design 是微信官方设计团队作品，知识产权等相关权利归�
 
 1. Tencent is the owner of all Intellectual property rights of this account and all projects posted under this account.
 
-2. All intellectual property rights, including but not limited to copyright, trademark, patent, trade secret , of all projects and all relevant information (including, but not limited to text, image, audio, video, graphics, interface design, layout framework, relevant data or electronic documents and etc.) posted under this account are governed and protected by laws and regulations of P.R.China and applicable international treaties, Tencent has all the intellectual property aforesaid, except for those rights that owned by any third party in accordance with applicable laws. 
+2. All intellectual property rights, including but not limited to copyright, trademark, patent, trade secret , of all projects and all relevant information (including, but not limited to text, image, audio, video, graphics, interface design, layout framework, relevant data or electronic documents and etc.) posted under this account are governed and protected by laws and regulations of P.R.China and applicable international treaties, Tencent has all the intellectual property aforesaid, except for those rights that owned by any third party in accordance with applicable laws.
 
-3. Without written consent of Tencent or applicable rights owner, you shall not sell or permit any third party to sell any project data posted under this account, or establish mirror of the same for sale. 
+3. Without written consent of Tencent or applicable rights owner, you shall not sell or permit any third party to sell any project data posted under this account, or establish mirror of the same for sale.
 
 4. Other lawful and reasonable use of information or data posted under this account are encouraged, including reproducing such information or data; preparing derivative works based on such information or data, or incorporating such data or information into other works or projects.
