@@ -27,7 +27,7 @@ iOS
 Android
 
 - 思源黑体 / NotoSans CJK SC（附件有资源）
-- Robot（附件有资源）
+- Roboto（附件有资源）
 
 ### Sketch 使用说明
 
